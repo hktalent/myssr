@@ -3,6 +3,7 @@ FROM ubuntu:latest
 # https://github.com/ToyoDAdoubi/doubi
 # https://github.com/ToyoDAdoubiBackup/shadowsocksr
 # https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh
+# https://github.com/Alvin9999/new-pac/wiki/自建ss服务器教程
 
 LABEL maintainer="51pwn.com<s1pwned@gmail.com>"
 ENV DEBIAN_FRONTEND noninteractive
